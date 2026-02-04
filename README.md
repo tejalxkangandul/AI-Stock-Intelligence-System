@@ -6,7 +6,7 @@ A professional-grade stock analysis and prediction system leveraging **LSTM Deep
 ---
 
 ## 🔍 Project Overview
-VisionAI is a modular intelligence system designed to bridge the gap between technical indicators and market sentiment. By utilizing a **Long Short-Term Memory (LSTM)** neural network, the system analyzes 60-day "DNA" patterns of stocks to provide 1-day price targets with a calculated reliability score.
+This is a modular intelligence system designed to bridge the gap between technical indicators and market sentiment. By utilizing a **Long Short-Term Memory (LSTM)** neural network, the system analyzes 60-day "DNA" patterns of stocks to provide 1-day price targets with a calculated reliability score.
 
 ### Key Features:
 * **Deep Learning Forecasts:** 1-Day forward price prediction using a multi-feature LSTM model.
